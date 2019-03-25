@@ -6,7 +6,7 @@
 % 
 % Reference: Wu, J., Liu, M. (2018) Computationally Efficient Robust 
 %                    Algorithm for Generalized Sensor Calibration 
-%                    Problem AR=RB. Submitted to IEEE Trans. Inst. Meas.
+%                    Problem AR=RB. Submitted to IEEE Sensors J.
 %
 % (c) 2018 Jin Wu
 
