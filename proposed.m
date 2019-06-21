@@ -4,9 +4,9 @@
 % Author: Jin Wu and Ming Liu
 % e-mail: jin_wu_uestc@hotmail.com
 % 
-% Reference: Wu, J., Liu, M. (2018) Computationally Efficient Robust 
+% Reference: Wu, J., Liu, M. and Qi, Y. (2019) Computationally Efficient Robust 
 %                    Algorithm for Generalized Sensor Calibration 
-%                    Problem AR=RB. Submitted to IEEE Sensors J.
+%                    Problem AR=RB. IEEE Sensors J.
 %
 % (c) 2018 Jin Wu
 
